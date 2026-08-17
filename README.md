@@ -1,6 +1,6 @@
 # Hi there, I'm Arvin Nourian 👋
 
-**AI / ML Engineer** specializing in machine learning pipelines, LLM agent integration, clinical decision support AI, and reinforcement learning environments.
+**AI / ML Engineer** specializing in machine learning pipelines, LLM agent integration, and reinforcement learning environments.
 
 📍 **Location**: Miami, FL & Toronto, ON  
 🌐 **Portfolio**: [nourian.dev](https://nourian.dev)  
