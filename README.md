@@ -24,7 +24,7 @@
 
 - **Languages**: Python, C++, C, Java, Kotlin, TypeScript, JavaScript, SQL, MIPS Assembly, Bash
 - **AI, ML & Data Science**: TensorFlow, PySpark, Scikit-Learn, LightGBM, XGBoost, SHAP (Explainable AI), LLM Agent Pipelines, Gemini API, Reinforcement Learning (Q-Learning / DQN), Neurosymbolic AI, Pandas, NumPy
-- **Tools, Cloud & Engineering**: AWS Cloud, Docker, RESTful APIs, Splunk (SPL), Maven, Gradle, Git, Jira, JUnit
+- **Tools, Cloud & Engineering**: AWS Cloud, Docker, RESTful APIs, Maven, Gradle, Git, Jira, JUnit, Splunk (SPL)
 
 ---
 
