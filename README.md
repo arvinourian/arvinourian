@@ -37,11 +37,4 @@
 - 🎮 **GridWorld Q-Learning Simulation** — Interactive MDP simulator visualizing Bellman updates, state-action Q-table heatmaps, and policy convergence.
 - 🧠 **Neurosymbolic AI Reasoner** — Hybrid engine combining LLM entity extraction with deterministic first-order logic constraint validation.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvinourian&show_icons=true&theme=tokyonight" alt="Arvin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinourian&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
