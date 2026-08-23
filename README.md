@@ -33,7 +33,7 @@
 - 🩺 **[Diabetes Risk Stratification & Clinical AI](https://github.com/arvinourian/diabetes-risk-stratification-ai)** — End-to-end clinical risk classifier trained on 253,680 CDC patient records with LightGBM (0.831 ROC-AUC, 83.7% Recall) and exact SHAP feature attributions.
 - 📧 **[LLM-Augmented Email Spam Classifier & AWS API](https://github.com/RyanEisele1012/Email_Filter)** — Knowledge distillation pipeline transferring LLM spam detection capabilities into a lightweight XGBoost model hosted on AWS.
 - 🎨 **[Weighted Voronoi Stippling Application](https://github.com/arvinourian/Weighted-Voronoi-Stippling-App)** — Computational geometry desktop application in Python utilizing Centroidal Voronoi Diagrams & Lloyd relaxation to stipple continuous images.
-- ⚙️ **WLP4 Language Compiler** — Multi-pass C++ compiler for a procedural C subset featuring a DFA scanner, parse trees, context-sensitive symbol table type checking, and native MIPS assembly emission.
+- ⚙️ **WLP4 Language Compiler** — C++ compiler for a procedural C subset featuring a DFA scanner, parse trees, context-sensitive symbol table type checking, and native MIPS assembly emission.
 - 🎮 **GridWorld Q-Learning Simulation** — Interactive MDP simulator visualizing Bellman updates, state-action Q-table heatmaps, and policy convergence.
 - 🧠 **Neurosymbolic AI Reasoner** — Hybrid engine combining LLM entity extraction with deterministic first-order logic constraint validation.
 
