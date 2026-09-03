@@ -31,6 +31,7 @@
 ### 🚀 Featured Projects
 
 - 🩺 **[Diabetes Risk Stratification & Clinical AI](https://github.com/arvinourian/diabetes-risk-stratification-ai)** — End-to-end clinical risk classifier trained on 253,680 CDC patient records with LightGBM (0.831 ROC-AUC, 83.7% Recall) and exact SHAP feature attributions.
+- 🎨 [Neurosymbolic Hues & Cues AI](https://github.com/arvinourian/neurosymbolic-hues-and-cues) — Neurosymbolic game-playing agent combining Logic Tensor Networks (PyTorch) in uniform $J_z A_z B_z$ perceptual color space with Answer Set Programming (`clingo`) and a bidirectional feedback loop for continuous-to-discrete color communication without runtime LLMs.
 - 📧 **[LLM-Augmented Email Spam Classifier & AWS API](https://github.com/RyanEisele1012/Email_Filter)** — Knowledge distillation pipeline transferring LLM spam detection capabilities into a lightweight XGBoost model hosted on AWS.
 - 🎨 **[Weighted Voronoi Stippling Application](https://github.com/arvinourian/Weighted-Voronoi-Stippling-App)** — Computational geometry desktop application in Python utilizing Centroidal Voronoi Diagrams & Lloyd relaxation to stipple continuous images.
 - ⚙️ **WLP4 Language Compiler** — C++ compiler for a procedural C subset featuring a DFA scanner, parse trees, context-sensitive symbol table type checking, and native MIPS assembly emission.
